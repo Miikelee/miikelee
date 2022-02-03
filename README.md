@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [project-pokemon-api](https://miikelee.github.io/project-pokemon-api/)
 
-- 🌱 I’m currently learning **Javascript moderno: Gía para dominar el lenguaje**
+- 🌱 I’m currently learning **Javascript Moderno: Guía para dominar el lenguaje**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Miikelee](https://github.com/Miikelee)
 
